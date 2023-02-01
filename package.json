@@ -20,7 +20,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/imran7rassi/Imrans-React-Portfolio.git"
@@ -30,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/imran7rassi/Imrans-React-Portfolio/issues"
   },
-  "homepage": "https://github.com/imran7rassi/Imrans-React-Portfolio#readme"
+  "homepage": "https://github.com/imran7rassi/Imrans-React-Portfolio#readme",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {}
 }
