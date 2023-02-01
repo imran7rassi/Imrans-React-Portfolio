@@ -1,6 +1,6 @@
 {
   "name": "imrans-react-portfolio",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
@@ -19,18 +19,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/imran7rassi/Imrans-React-Portfolio.git"
-  },
-  "author": "",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/imran7rassi/Imrans-React-Portfolio/issues"
-  },
-  "homepage": "https://github.com/imran7rassi/Imrans-React-Portfolio#readme",
-  "description": "",
-  "main": "index.js",
-  "devDependencies": {}
+  }
 }
