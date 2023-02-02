@@ -2,7 +2,7 @@
   "homepage": "https://imran7rassi.github.io/imrans-react-portfolio",
   "name": "imrans-react-portfolio",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
     "@fortawesome/free-solid-svg-icons": "^5.15.1",
