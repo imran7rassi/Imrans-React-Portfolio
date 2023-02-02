@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "http://192.168.56.1:3000/static/css/main.119d0220.chunk.css",
+    "main.js": "http://192.168.56.1:3000/static/js/main.834ebc6b.chunk.js",
+    "main.js.map": "http://192.168.56.1:3000/static/js/main.834ebc6b.chunk.js.map",
+    "runtime-main.js": "http://192.168.56.1:3000/static/js/runtime-main.f322f2f1.js",
+    "runtime-main.js.map": "http://192.168.56.1:3000/static/js/runtime-main.f322f2f1.js.map",
+    "static/css/2.467b4cbb.chunk.css": "http://192.168.56.1:3000/static/css/2.467b4cbb.chunk.css",
+    "static/js/2.75d94e51.chunk.js": "http://192.168.56.1:3000/static/js/2.75d94e51.chunk.js",
+    "static/js/2.75d94e51.chunk.js.map": "http://192.168.56.1:3000/static/js/2.75d94e51.chunk.js.map",
+    "static/js/3.eec68da7.chunk.js": "http://192.168.56.1:3000/static/js/3.eec68da7.chunk.js",
+    "static/js/3.eec68da7.chunk.js.map": "http://192.168.56.1:3000/static/js/3.eec68da7.chunk.js.map",
+    "index.html": "http://192.168.56.1:3000/index.html",
+    "service-worker.js": "http://192.168.56.1:3000/service-worker.js",
+    "service-worker.js.LICENSE.txt": "http://192.168.56.1:3000/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "http://192.168.56.1:3000/service-worker.js.map",
+    "static/css/2.467b4cbb.chunk.css.map": "http://192.168.56.1:3000/static/css/2.467b4cbb.chunk.css.map",
+    "static/css/main.119d0220.chunk.css.map": "http://192.168.56.1:3000/static/css/main.119d0220.chunk.css.map",
+    "static/js/2.75d94e51.chunk.js.LICENSE.txt": "http://192.168.56.1:3000/static/js/2.75d94e51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f322f2f1.js",
+    "static/css/2.467b4cbb.chunk.css",
+    "static/js/2.75d94e51.chunk.js",
+    "static/css/main.119d0220.chunk.css",
+    "static/js/main.834ebc6b.chunk.js"
+  ]
+}
