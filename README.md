@@ -10,7 +10,6 @@ This is the link to the [App]()
 
 ## Table of Contents
 * [Installation](#installation)
-* [Demo](#demo)
 * [Usage](#usage)
 * [License](#license)
 * [Credits](#credits)
@@ -24,14 +23,6 @@ You can open the [App](https://blooming-thicket-32337.herokuapp.com/)
 ![](./Assets/1.jpg)
 ![](./Assets/2.jpg)
 ![](./Assets/3.jpg)
-
-## Demo
-
-![Demo for Walkthrough](./Assets/demo.gif)
-
-
-
-* You also can go through that link for a better look <a href="https://drive.google.com/file/d/1dCZZ9mnskBs4Y8FNng2e01TuQSryRjAO/view">Video</a>
 
 
 ## Usage 
