@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Meal Match",
+        "image": "https://github.com/ricky-rosay/p01-meal-match/raw/main/Assets/images/landingpage.png",
+        "github": "https://github.com/ricky-rosay/p01-meal-match.git",
+        "deploy": "https://ricky-rosay.github.io/p01-meal-match/",
+        "topics": "HTML, CSS, JS, Bootstrap"
+    },
+    {
+        "id": 2,
+        "name": "Web Code Quiz",
+        "image": "https://github.com/imran7rassi/Imrans-Web-Code-Quiz/raw/main/assets/images/web-code-quiz.jpg",
+        "github": "https://github.com/imran7rassi/Imrans-Web-Code-Quiz.git",
+        "deploy": "https://imran7rassi.github.io/Imrans-Web-Code-Quiz/",
+        "topics": "HTML, CSS, JS"
+    },
+    {
+        "id": 3,
+        "name": "Note Taker",
+        "image": "https://github.com/imran7rassi/Imrans-Note-Taker/raw/main/public/assets/images/Note%20taker%20notepage.png",
+        "github": "https://github.com/imran7rassi/Imrans-Web-Code-Quiz.git",
+        "deploy": "https://imran7rassi.github.io/Imrans-Web-Code-Quiz/",
+        "topics": "node, sequelize, JS, NPM, Express, UUID "
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://github.com/imran7rassi/Imrans-weather-dashboard/raw/main/assets/images/weather-2.jpg",
+        "github": "https://github.com/imran7rassi/Imrans-weather-dashboard.git",
+        "deploy": "https://imran7rassi.github.io/Imrans-weather-dashboard/",
+        "topics": "moment.js, javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Juke Box",
+        "image": "https://user-images.githubusercontent.com/111669764/207989621-4399b6a6-0ef1-46a1-8154-836aae9a2656.png",
+        "github": "https://github.com/ricky-rosay/My-Juke-Box.git",
+        "deploy": "https://young-peak-87154.herokuapp.com/",
+        "topics": "node, express, javascript, CSS, nodemon"
+    },
+    {
+        "id": 6,
+        "name": "Text Editor",
+        "image": "https://github.com/imran7rassi/Imrans-Text-Editor/raw/main/Assets/screen%201.jpg",
+        "github": "https://github.com/imran7rassi/Imrans-Text-Editor.git",
+        "deploy": "https://blooming-thicket-32337.herokuapp.com/",
+        "topics": "JS, Node.js, Express.js, Webpack"
+    }
+]
