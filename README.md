@@ -4,7 +4,7 @@
 
 A simple SPA Portfolio template for developer/designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
-This is the link to the [App]()
+This is the link to the [App](https://imran7rassi.github.io/imrans-react-portfolio/)
 
 
 
@@ -17,7 +17,7 @@ This is the link to the [App]()
 
 ## Installation
 
-You can open the [App](https://blooming-thicket-32337.herokuapp.com/)
+You can open the [App](https://imran7rassi.github.io/imrans-react-portfolio/)
 
 
 ![](./Assets/1.jpg)
@@ -27,7 +27,7 @@ You can open the [App](https://blooming-thicket-32337.herokuapp.com/)
 
 ## Usage 
 
-To use this app go to the [Link](https://blooming-thicket-32337.herokuapp.com/).
+To use this app go to the [Link](https://imran7rassi.github.io/imrans-react-portfolio/).
 
 
 ## License
