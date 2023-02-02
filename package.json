@@ -1,5 +1,5 @@
 {
-  "homepage": "https://imran7rassi.github.io/imrans-react-portfolio",
+  "homepage": "https://imran7rassi.github.io",
   "name": "imrans-react-portfolio",
   "version": "1.0.0",
   "private": false,
@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
