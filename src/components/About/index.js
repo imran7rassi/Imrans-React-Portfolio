@@ -1,7 +1,7 @@
 import React from 'react';
 
 function About() {
-
+ console.log('ABOUT')
     return(
         <section className="container">
             <h2 class="top-title">Imran Rasi</h2>
