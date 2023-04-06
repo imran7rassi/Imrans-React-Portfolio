@@ -1,0 +1,176 @@
+{
+  "main": {
+    "name":"Imran Rasi",
+    "description":"Software Developer / Designer / Lifetime Student",
+    "image":"profilepic.jpg",
+    "bio":"My name is Imran researching and I am a recent BBA Bachelor's degree graduate and current GT Coding Bootcamp Student. I am a hard-working, detail-oriented Software Developer passionate about learning, researching, and writing code and I relish the opportunity to take my programming skills and experience to a company where I can continue to learn and grow as a professional software developer.",
+    "contactmessage":"Feel free to contact me via email, this form, or LinkedIn",
+    "email": "tutchings.dev@gmail.com",
+    "phone": "404-734-2562",
+    "github":"https://github.com/imran7rassi",
+    "project":"https://www.linkedin.com/in/imran-rasi-a01a98259/",
+    "address":{
+      "street":"(Your Street)",
+      "city":"Scottdale",
+      "state":"GA",
+      "zip": "(30079)"
+    },
+    "website": "https://github.com/imran7rassi",
+    "resumedownload":"https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:dc6b9636-208c-469c-95f6-ca3702f88f32",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/imran7rassi",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/imran-rasi-a01a98259/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"* Each skill level is weighted in correlation to the remaining skills",
+    "education":[
+      {
+        "school":"Georgia Tech University",
+        "gpa": "B+ Academic Average",
+        "degree":"Coding Bootcamp Certificate",
+        "graduated":"February 2023",
+        "description":"Coursework Included: HTML5, CSS3, JavaScript, jQuery, Bootstrap, Express.js, Handlebars, React.js, Node.js, Database Theory, MongoDB, MySQL, Git"
+      },
+      {
+        "school":"University of Kabul-Afghanistan",
+        "gpa": "3.977 GPA",
+        "degree":"Bachelor of Bussines Administration (BBA)",
+        "graduated":"August 2022",
+        "description":" Microsoft Office Applications, Business Minor (Management, Finance, Accounting, Marketing, Economics)"
+      }
+    ],
+    "work":[
+      {
+        "company":"Afghan Raasa",
+        "title":"Manager",
+        "years":"March 2019 - Present",
+        "description":"Manage and control the employees work and the projects"
+      },
+      {
+        "company":"Curry Up Now",
+        "title":"Chef & Cashier",
+        "years":"Jan 2022 - present",
+        "description":"Manage the employee works and food service in the resturant"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML / CSS / Bootstrap",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"20%"
+      },
+      {
+        "name":"MongoDB / Mongoose",
+        "level":"30%"
+      },
+      {
+        "name":"Terminal / Git",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJS / ExpressJS",
+        "level":"60%"
+      },
+      {
+        "name":"MySQL / Sequelize",
+        "level":"35%"
+      },
+      {
+        "name":"REST APIs",
+        "level":"45%"
+      },
+      {
+        "name":"JavaScript / jQuery",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Disney Platformer",
+        "shorttitle": "Disney Platformer",
+        "category":"Personal Project",
+        "image":"disneyPlatformer.PNG",
+        "info":"HTML, CSS, JS, Bootstrap, Adobe Photoshop",
+        "url":"https://tutchings.github.io/disneyPlatformer/",
+        "repo":"https://github.com/tutchings/disneyPlatformer"
+      },
+      {
+        "title":"Wake Forest University ASGM Project",
+        "shorttitle": "WFU ASGM Project",
+        "category":"Academic (group) Project",
+        "image":"wfu-asgm-project.PNG",
+        "info":"Amazon Web Services (AWS), Serverless, Express, Vuejs, Nodejs, Axios, MongoDB, Mongoose, HTML, CSS, JS, jQuery",
+        "url":"https://asgmwfu.com/index.html",
+        "repo":"https://github.com/tutchings/wfu-asgm-awsServerlessLambda"
+      },
+      {
+        "title":"Exploring National Parks During Covid: Live Search",
+        "shorttitle": "NPS Covid: Live Search",
+        "category":"Academic (group) Project",
+        "image":"nps.png",
+        "info":"HTML, CSS, JS, jQuery, Materialize, GoogleMaps and Geocoding APIs, NPS API, Covid Tracking Project API, Bing News API, MapQuest API",
+        "url":"https://tutchings.github.io/exploringParksDuringCovidLiveSearch/",
+        "repo":"https://github.com/tutchings/exploringParksDuringCovidLiveSearch"
+      },
+      {
+        "title":"React User Directory",
+        "shorttitle": "React User Directory",
+        "category":"Academic Project",
+        "image":"userDirectoryImg1.PNG",
+        "info":"React, Nodejs, Axios, Random User API, HTML, CSS, JS, Bootstrap",
+        "url":"https://tutchings.github.io/19-user-directory/",
+        "repo":"https://github.com/tutchings/19-user-directory"
+      },
+      {
+        "title":"Budget Tracker PWA",
+        "shorttitle": "Budget Tracker",
+        "category":"Academic Project",
+        "image":"budgetTracker1.PNG",
+        "info":"MongoDB, Mongoose, webpack, service-worker, Express, Nodejs",
+        "url":"https://budget-tracker-18-pwa.herokuapp.com",
+        "repo":"https://github.com/tutchings/18_BudgetTrackerPWA"
+      },
+      {
+        "title":"Burger Tracker",
+        "shorttitle": "Burger Tracker",
+        "category":"Academic Project",
+        "image":"burgerTracker.PNG",
+        "info":"MySql, Express, Nodejs, Handlebars, HTML, CSS, JS, Bootstrap, jQuery",
+        "url":"https://mysql-mvc-burger-shop.herokuapp.com/",
+        "repo":"https://github.com/tutchings/13_burgerTracker"
+      },
+      {
+        "title":"Weather Dashboard",
+        "shorttitle": "Weather Dashboard",
+        "category":"Academic Project",
+        "image":"weatherDashboard.png",
+        "info":"HTML, CSS, Bootstrap, JS, jQuery, OpenWeather API, MapQuest API",
+        "url":"https://tutchings.github.io/6_weatherDashboard/",
+        "repo":"https://github.com/tutchings/6_weatherDashboard"
+      },
+      {
+        "title":"BlackJack Game",
+        "shorttitle": "BlackJack",
+        "category":"Personal Project",
+        "image":"blackjack.PNG",
+        "info":"HTML, CSS, JS",
+        "url":"https://tutchings.github.io/blackjack/",
+        "repo":"https://github.com/tutchings/blackjack"
+      }
+    ]
+  }
+}
